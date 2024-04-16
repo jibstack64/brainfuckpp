@@ -1,0 +1,13 @@
+
+# String format: [ length ][ data ... ] #
+
+# 0 - Sets the current cell to 'a' #
+{[-]>[-]<+*****[>+++<-]>+[<+>-]<}
+
+# 1 - Prints a string and goes back to the start of it #
+{$(>.)>$+(<)}
+
+++++++>0>0+>0++>0+++>0++++>++++++++++
+<<<<<<
+111
+
