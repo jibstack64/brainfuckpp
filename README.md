@@ -1,5 +1,7 @@
 # brainfuck++
 
+![GitHub Release](https://img.shields.io/github/v/release/jibstack64/brainfuckpp)
+
 An extension of the `brainfuck` programming language.
 
 ## Usage
