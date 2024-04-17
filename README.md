@@ -10,7 +10,7 @@ Releases of both the compiler and interpreter can be found on the Releases page.
 
 ### Compiler
 
-The `brainfuck++` compiler essentially packages the interpreter with your code so that it can be ran without distributing the source code.
+The `brainfuck++` compiler essentially packages the interpreter with your code so that you do not have to distribute the two separately.
 
 It is written in Python and such you must have Python (3.10>) installed to use it.
 
